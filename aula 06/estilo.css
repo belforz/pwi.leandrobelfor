@@ -1,0 +1,20 @@
+        tr:nth-child(even) ,th:nth-child(odd){
+         background-color: #8633b6}
+  
+
+         th, td {
+    border: 2px solid white rgb(123, 59, 148);
+      border: collapse;
+      text-align: center;
+      padding: 15px;
+      background-color: rgb(69, 219, 224);
+      }
+
+        .tentar{ font-style: inherit;
+    
+      }
+        .tentar2,.tentar3,.tentar4{font-style: oblique;
+      }
+
+
+   
