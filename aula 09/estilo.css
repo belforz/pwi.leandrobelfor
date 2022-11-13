@@ -1,16 +1,23 @@
+@font-face {
+    font-family: lol;
+    src: url(PermanentMarker-Regular.ttf)
+    
+}
+
 body {margin: 20%;
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(219, 199, 199);
     font-style: normal;
     border-radius: 35%;
     font-variant: small-caps ;
-
+    font-family: 'lol';
+  }
     
-    }
-    
-    p { font-size: width 50%;
+p, .dois,.lol { font-size: width 50%;
         font-style: normal;
-        background-color: aqua;
-        
+        background-color: beige;
     
     }
-    
+.nome,.nome1,.maisum{font-size: 200%;
+    background-color: rgb(237, 151, 181);
+
+}    

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<body>
+
+<script> 
+            var img = document.createElement("img");
+             img.src = "aula 09\negão-da-picona-png-6.png";
+
+        var div = document.getElementById("holder");
+        div.appendChild(img);
+            block.setAttribute("style", "text-align:center");
+            
+            </script>
+
+            </body>
+</html>
