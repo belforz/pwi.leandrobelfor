@@ -1,3 +1,8 @@
+@font-face {
+  font-family: lol;
+  src: url(PermanentMarker-Regular.ttf)
+}
+
 body {margin: 20%;
     background-color: rgb(219, 199, 199);
     font-style: normal;
@@ -11,5 +16,12 @@ p { font-size: width 50%;
         background-color: beige;
     
     }
+h1 {text-align: center;
+    font-size: 200%;
+    font-variant: unset;
+    background-color: rgb(158, 241, 243);
+    font-display: block;
+    
+}
 
 

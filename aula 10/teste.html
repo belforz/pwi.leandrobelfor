@@ -1,0 +1,19 @@
+<html>
+<body>
+<select name="" id="select" onClick="hello();">
+    <option>Select</option>
+    <option style="background-color: #CD5C5C;">#CD5C5C</option>
+    <option style="background-color: #F08080;">#F08080</option>
+    <option style="background-color: #FA8072;">#FA8072</option>
+    <option style="background-color: #E9967A;">#E9967A</option>
+    <option style="background-color: #FFA07A;">#FFA07A</option>
+</select>
+<script>
+function hello(){
+let d = document.getElementById("select");
+let text = d.options[d.selectedIndex].value;
+document.body.style.backgroundColor=text;
+}
+</script>
+</body>
+</html>
