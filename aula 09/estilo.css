@@ -5,11 +5,16 @@
 }
 
 body {margin: 20%;
-    background-color: rgb(219, 199, 199);
     font-style: normal;
     border-radius: 35%;
     font-variant: small-caps ;
     font-family: 'lol';
+    background: linear-gradient(
+        to right,
+    	#00BFFF,
+        #02aab0
+    )
+
   }
     
 p, .dois,.lol { font-size: width 50%;
